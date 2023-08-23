@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93d68f95.css",
+    "main.js": "/static/js/main.c87c318d.js",
+    "static/js/787.a92469f0.chunk.js": "/static/js/787.a92469f0.chunk.js",
+    "static/media/logofesta.jpg": "/static/media/logofesta.e677a12834f61832bac1.jpg",
+    "index.html": "/index.html",
+    "main.93d68f95.css.map": "/static/css/main.93d68f95.css.map",
+    "main.c87c318d.js.map": "/static/js/main.c87c318d.js.map",
+    "787.a92469f0.chunk.js.map": "/static/js/787.a92469f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93d68f95.css",
+    "static/js/main.c87c318d.js"
+  ]
+}
